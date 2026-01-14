@@ -1,0 +1,37 @@
+[
+  {
+    "id": "987ac7ab-4fd1-4bd2-9d13-6db52ffb61d2",
+    "sku": "HP-462GB-097",
+    "name": "HP Model 14",
+    "description": "Official HP product with manufacturer warranty",
+    "category": "  ",
+    "brand": "HP",
+    "price": 130691.0,
+    "currency": "INR",
+    "discount_percent": 10,
+    "stock": 99,
+    "is_active": true,
+    "rating": 4.6,
+    "tags": [
+      "gaming",
+      "tablet",
+      "amoled"
+    ],
+    "image_urls": [
+      "https://cdn.example.com/hp/front.png",
+      "https://cdn.example.com/hp/back.png"
+    ],
+    "dimensions_cm": {
+      "length": 32.8,
+      "width": 13.9,
+      "height": 2.0
+    },
+    "seller": {
+      "seller_id": "4dc3da7c-19e0-4422-bd48-7aa697ebab37",
+      "name": "HP World",
+      "email": "support@hpworld.in",
+      "website": "https://www.hpworld.in/"
+    },
+    "created_at": "2025-08-07T00:00:00Z"
+  }
+]
